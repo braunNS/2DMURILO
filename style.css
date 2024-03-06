@@ -28,4 +28,7 @@
 }
 .escola{
     background-image: linear-gradient(#B90D2C, #000000);
+    color: var(--cor-fontes);
+    display: flex;
+    
 }
