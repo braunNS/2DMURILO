@@ -3,7 +3,7 @@
     padding: 0;;
 }
 :root{
-    --cor-fundo: #000000;
+    --cor-fundo: #B90D2C;
     --cor-fontes: white;
 }
 .cabecalho{
@@ -24,7 +24,7 @@
 
 }
 .esscola-imagem{
-    width: 40%;
+    width: 25%;
 }
 .escola{
     background-image: linear-gradient(#B90D2C, #000000);
