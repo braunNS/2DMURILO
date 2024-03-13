@@ -30,5 +30,13 @@
     background-image: linear-gradient(#B90D2C, #000000);
     color: var(--cor-fontes);
     display: flex;
+    align-items: center;
+    padding: 24px 0;
+}
+.escola-div-conteudo{
+    width: 35%;
+
+}
+.escola-titulo{
     
 }
