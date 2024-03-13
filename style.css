@@ -25,6 +25,8 @@
 }
 .esscola-imagem{
     width: 30%;
+    margin-top: 10%;
+    margin-left: 20%;
 }
 .escola{
     background-image: linear-gradient(#B90D2C, #000000);
